@@ -17,8 +17,7 @@ I'm always eager to learn and grow. Currently, I'm diving deeper into Java, AI M
 
 Here are some of the projects I've worked on:
 
-- **[Project Name]**: [Brief description of the project. Include technologies used and the purpose or impact of the project.]
-- **[Project Name]**: [Brief description of the project. Include technologies used and the purpose or impact of the project.]
+- **[Spotify Clone]**: [Create a Clone WebPage of Spotify using HTML and CSS only.]
 
 You can find more of my projects in the https://github.com/arvindjha131 section.
 
