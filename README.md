@@ -1,11 +1,7 @@
 ## About Me
--Persuing MCA from SRM Institute of Science and Technology with current grade-8.
--Aspiring Full-Stack Developer with expertise in front-end and back-end technologies.
--Proficient in Java, Python, SQL, React, Node.js, MongoDB, and AI/ML tools.
--Developed impactful projects, including an Airbnb Clone and Responsive E-Commerce Website, showcasing secure authentication and dynamic features.
--Certified in Full-Stack Development, Google Cloud AI, and UI/UX Design, emphasizing continuous learning.
--Awarded Gold Medal for academic excellence in BCA.
--Passionate about building innovative, user-friendly applications that integrate AI for smarter solutions.
+I am currently pursuing an MCA from SRM Institute of Science and Technology, maintaining a strong academic performance with a current grade of 8. As an aspiring full-stack developer, I specialize in both front-end and back-end technologies, with proficiency in Java, Python, SQL, React, Node.js, and MongoDB. My expertise extends to AI/ML tools, allowing me to integrate smart solutions into my projects.
+
+I have developed impactful projects like an Airbnb Clone and a responsive E-Commerce website, showcasing secure authentication, dynamic features, and a focus on user experience. Certified in Full-Stack Development, Google Cloud AI, and UI/UX Design, I am committed to continuous learning. Recognized for academic excellence with a Gold Medal during my BCA, I am passionate about creating innovative, user-friendly applications that leverage cutting-edge technologies.
 
 ### 💻 Technologies & Tools
 
